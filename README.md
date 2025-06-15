@@ -1,4 +1,5 @@
 <img src="https://media.tenor.com/-19Wlf9R4JcAAAAi/mai-sakurajima-mai.gif" align="center">
+
 # Baileys - Typescript/Javascript WhatsApp Web API
 
 ### Important Note
