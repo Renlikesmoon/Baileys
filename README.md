@@ -1,3 +1,4 @@
+<img src="" align="center">
 # Baileys - Typescript/Javascript WhatsApp Web API
 
 ### Important Note
